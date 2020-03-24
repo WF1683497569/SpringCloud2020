@@ -28,6 +28,9 @@
       <module>springcloud-config-center-3344</module>
     <module>springcloud-config-client-3355</module>
       <module>springcloud-config-client-3366</module>
+      <module>springcloud-provider-stream-rabbitmq-8801</module>
+      <module>springcloud-consumer-stream-rabbitmq-8802</module>
+    <module>springcloud-consumer-stream-rabbitmq-8803</module>
   </modules>
 
   <properties>

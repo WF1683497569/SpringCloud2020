@@ -17,6 +17,10 @@
     <file url="file://$PROJECT_DIR$/springcloud-consumer-feign-order-80/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumer-order-80/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumer-order-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-stream-rabbitmq-8802/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-stream-rabbitmq-8802/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-stream-rabbitmq-8803/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-stream-rabbitmq-8803/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumer-zk-order-80/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumer-zk-order-80/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-server-7001/src/main/java" charset="UTF-8" />
@@ -37,6 +41,8 @@
     <file url="file://$PROJECT_DIR$/springcloud-provider-payment-8002/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-payment-8004/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-payment-8004/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-stream-rabbitmq-8801/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-stream-rabbitmq-8801/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
